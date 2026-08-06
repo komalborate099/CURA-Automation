@@ -14,6 +14,7 @@
             <class name="tests.Test2HomePageTitleVerification"/>
             <class name="tests.Test3HomePagesecondtitleVerify"/>
             <class name="tests.Test4ToVerifyCopyWrite"/>
+            <class name="tests.Test7Log"/>
 
         </classes>
 
