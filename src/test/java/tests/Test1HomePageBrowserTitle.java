@@ -9,7 +9,7 @@ public class Test1HomePageBrowserTitle extends BaseTest {
 	@Test
 	public void Verifybrowsertitle() {
 		String ActualBriwserTitle= driver.getTitle();
-		String ExpctedBrowserTitle="CURA Healthcare Service";
+		String ExpctedBrowserTitle="CRA Healthcare Service";
 		
 		Assert.assertEquals(ActualBriwserTitle, ExpctedBrowserTitle);
 		System.out.print("Test 1 Verify Home Pahe browser title Passed");
